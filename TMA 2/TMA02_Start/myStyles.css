@@ -1,0 +1,48 @@
+/*!
+Your CSS codes here
+*/
+
+#prog-selection {
+
+    padding-top:10px;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    float: left;
+    width: 20%;
+    background-color: #b4fbff;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+#prog-selection h2 {
+
+    color: black;
+}
+
+#prog-selection li {
+    list-style-type: none;
+    color: #0909f2;
+}
+
+#prog-selection li:hover{
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #525252;
+}
+
+
+#content button {
+    background-color: #ec0404;
+    color: #ffffff;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor:pointer;
+    border-radius: 10px;
+    border:none;
+
+}
+
